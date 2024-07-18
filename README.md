@@ -34,3 +34,6 @@ Upload an image through the sidebar and see the extracted text.
 ## **Working**
 ![image](https://github.com/user-attachments/assets/5e5d050f-7517-4090-93c3-e67eb80c708c)
 
+
+** The overall accuracy depends upon the quality of image, its style, and appearance.
+
